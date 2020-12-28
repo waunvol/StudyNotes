@@ -1,5 +1,6 @@
 #include <iostream>
 
+//指针传参测试实例
 using namespace std;
 
 struct Unit{
